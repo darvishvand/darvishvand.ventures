@@ -59,6 +59,14 @@ This file provides context to Gemini about the project. By providing high-level 
 - (e.g., "Use GitFlow (main, develop, feature branches).")
 - (e.g., "Create a new branch for each feature or bug fix.")
 
+**Logging:**
+- Automatically log all significant actions, decisions, and executed steps in `ACTIONS.md`.
+- Each log entry should be dated.
+
+**Git Workflow:**
+- After creating or modifying files, automatically stage the changes using `git add`.
+- After staging, automatically commit the changes with a clear and descriptive commit message.
+
 ---
 
 ## How to Use This File
