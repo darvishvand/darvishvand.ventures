@@ -42,6 +42,9 @@ The plan is divided into three main phases, each with specific objectives, detai
 *   **Task 3: Establish Community & Communication Channels.**
     *   **Action:** Set up and configure a Discord server as the primary hub for community interaction.
     *   **Action:** Create a Twitter account for announcements and broader outreach.
+*   **Task 4: Establish Project Management Workflow.**
+    *   **Action:** Set up a GitHub Project board.
+    *   **Details:** The board will be used to turn tasks from `PLAN.md` into trackable issues, providing a clear view of our work pipeline.
 
 >> COMMENT:
 

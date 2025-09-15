@@ -13,3 +13,5 @@ This document records all significant actions taken in the establishment and ope
 ### September 15, 2025 (Update)
 
 *   **ACTION:** Refined `PLAN.md` to prioritize establishing the digital identity (domain, email, social profiles) as the first administrative step.
+*   **ACTION:** Added task to `PLAN.md` to establish a GitHub Project board.
+*   **ACTION:** Removed the CI/CD pipeline task from `PLAN.md` to focus solely on documentation.
