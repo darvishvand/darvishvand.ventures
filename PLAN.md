@@ -15,16 +15,19 @@ The plan is divided into three main phases, each with specific objectives, detai
 **Objective:** To establish the legal, technical, and governance backbone of the DAO, and to cultivate the initial community required for launch.
 
 ### 1.1. Legal & Administrative
-*   **Task 1: Incorporate as a DAO LLC.**
+*   **Task 1: Establish Digital Identity.**
+    *   **Action:** Register the `darvishvand.ventures` domain name.
+    *   **Action:** Register the primary email address (e.g., `contact@darvishvand.ventures`).
+    *   **Action:** Secure key social media handles (e.g., Twitter, Discord, GitHub).
+    *   **Details:** Securing our brand and communication channels is the first step before any public announcement.
+    *   **Estimated Cost:** ~$15.
+*   **Task 2: Incorporate as a DAO LLC.**
     *   **Action:** File for a DAO LLC in Wyoming, leveraging its favorable legal framework for decentralized organizations.
     *   **Details:** This provides a crucial legal wrapper, limiting liability for members and allowing the DAO to interact with off-chain entities.
     *   **Estimated Cost:** ~$50-200.
-*   **Task 2: Draft Initial Legal & Governance Documents.**
+*   **Task 3: Draft Initial Legal & Governance Documents.**
     *   **Action:** Create the initial versions of the DAO's Charter, Operating Agreement, and a clear Privacy Policy.
     *   **Details:** These documents will be ratified by the founding members. They will outline the core rules, member responsibilities, and data privacy commitments.
-*   **Task 3: Secure Digital Assets.**
-    *   **Action:** Register the `darvishvand.ventures` domain name and secure key social media handles (e.g., Twitter, Discord).
-    *   **Estimated Cost:** ~$10.
 
 >> COMMENT:
 
