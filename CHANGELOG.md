@@ -7,9 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-### Added
-
-- Initial commit.
+### Changed
+- Resolved license inconsistency between `DVIP.md` and `LICENSE.md`.
+- Updated `README.md` with project-specific information.
+- Updated `CONTRIBUTING.md` with the project name.
 
 ## [1.0.0] - YYYY-MM-DD
 

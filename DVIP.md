@@ -43,7 +43,7 @@ The Darvishvand.Ventures governance lifecycle is designed to be rigorous and tra
 *   **Goal**: To gauge community interest, gather initial feedback, and find collaborators. This step prevents time being wasted on proposals that are unlikely to gain traction.
 
 **Phase 1: Drafting**
-*   **Action**: The proposal champion (author) drafts the DVIP using the appropriate template below.
+*   **Action**: The proposal author drafts the DVIP using the appropriate template below.
 *   **Goal**: To create a formal, high-quality document that clearly articulates the proposal and its rationale.
 
 **Phase 2: Review**
@@ -107,4 +107,4 @@ The Editors' role is to facilitate the process, not to act as gatekeepers. They 
 
 ## Copyright
 
-Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+All contributions to this proposal are licensed under the GNU General Public License v3.0. By submitting a DVIP, you agree to license your contribution under the same terms as the project's license, which can be found in the `LICENSE.md` file.

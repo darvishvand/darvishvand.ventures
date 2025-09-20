@@ -1,6 +1,6 @@
-# (Your Project Name)
+# Darvishvand.Ventures
 
-(A more detailed description of your project.)
+A Decentralized Autonomous Startup Accelerator. This project aims to address the limited transparency and stakeholder engagement in traditional startup accelerators by proposing an innovative DAO governance framework designed for early-stage ventures.
 
 ## Table of Contents
 
@@ -15,9 +15,8 @@
 
 ```bash
 # Example installation commands
-git clone https://github.com/your-username/your-project.git
-cd your-project
-npm install
+git clone https://github.com/Darvishvand/Darvishvand.Ventures.git
+cd Darvishvand.Ventures
 ```
 
 ## Usage
@@ -35,4 +34,4 @@ Contributions are welcome! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) fil
 
 ## License
 
-This project is licensed under the (Your License) - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details.
