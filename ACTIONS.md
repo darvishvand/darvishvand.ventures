@@ -30,3 +30,4 @@ This document records all significant actions taken in the establishment and ope
 *   **ACTION:** Updated `CHANGELOG.md` to reflect the recent documentation and licensing fixes.
 *   **ACTION:** Updated `CODE_OF_CONDUCT.md` with the designated contact email for reporting incidents.
 *   **ACTION:** Updated `gemini.md` to include a rule for automatically pushing to GitHub after each commit.
+*   **ACTION:** Created `personal.md` for personal notes and added it to `.gitignore`.
