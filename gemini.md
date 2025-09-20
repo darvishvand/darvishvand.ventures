@@ -66,5 +66,6 @@ This file provides context to Gemini about the project. By providing high-level 
 **Git Workflow:**
 - After creating or modifying files, automatically stage the changes using `git add`.
 - After staging, automatically commit the changes with a clear and descriptive commit message.
+- After committing, automatically push the changes to the `origin` remote.
 
 ---

@@ -15,7 +15,7 @@ A Decentralized Autonomous Startup Accelerator. This project aims to address the
 
 ```bash
 # Example installation commands
-git clone https://github.com/Darvishvand/Darvishvand.Ventures.git
+git clone https://github.com/darvishvand/darvishvand.ventures.git
 cd Darvishvand.Ventures
 ```
 
