@@ -4,16 +4,14 @@ We love receiving contributions from the community and are thrilled that you're 
 
 ## How to Contribute
 
-There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests, or writing code that can be incorporated into the project itself.
+There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests, or writing code that can be incorporated into the project itself. Feel free to contact us.
 
-### Reporting Bugs
+### Reporting Issues
 
-If you find a bug, please open an issue on our GitHub repository. When you report a bug, please include the following:
+If you find an issue, please open an issue on our GitHub repository. When you report an issue, please include the following:
 
 - A clear and descriptive title.
 - A detailed description of the problem, including steps to reproduce it.
-- The expected behavior and what actually happened.
-- Your environment details (e.g., OS, browser, Node.js version).
 
 ### Suggesting Enhancements
 
@@ -21,7 +19,7 @@ If you have an idea for a new feature or an improvement to an existing one, plea
 
 ### Pull Requests
 
-If you'd like to contribute code, please follow these steps:
+If you'd like to contribute, please follow these steps:
 
 1.  Fork the repository.
 2.  Create a new branch for your feature or bug fix: `git checkout -b my-new-feature`
@@ -29,16 +27,13 @@ If you'd like to contribute code, please follow these steps:
 4.  Push your changes to your fork: `git push origin my-new-feature`
 5.  Open a pull request to the `main` branch of our repository.
 
-## Style Guides
 
 ### Git Commit Messages
 
-- Use the present tense ("Add feature" not "Added feature").
-- Use the imperative mood ("Move cursor to..." not "Moves cursor to...").
-- Limit the first line to 72 characters or less.
-- Reference issues and pull requests liberally after the first line.
+- Use short and descriptive text.
+- Reference issues and pull requests when possible.
 
 ### Code Style
 
-- Follow the coding style guide for the language you are using (e.g., PEP 8 for Python, Airbnb style for JavaScript).
-- Make sure your code is well-documented.
+
+- Make sure your code is using best practices and is well-documented .

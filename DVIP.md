@@ -18,7 +18,7 @@ DVIPs are the primary mechanism for proposing and voting on any and all changes 
 
 ## Motivation
 
-Inspired by Bitcoin's BIPs and Polygon's PIPs, the DVIP process is designed to provide a transparent, structured, and accountable framework for governance. Given that Darvishvand.Ventures aims to solve the opacity of traditional accelerators, it is critical that its own governance be radically transparent and community-driven. This process ensures that every decision, from funding a new venture to changing a parameter in a smart contract, is publicly documented, debated, and decided upon by the DAO members.
+Inspired by Bitcoin's BIPs, the DVIP process is designed to provide a transparent, structured, and accountable framework for governance. Given that Darvishvand.Ventures aims to solve the opacity of traditional accelerators, it is critical that its own governance be radically transparent and community-driven. This process ensures that every decision, from funding a new venture to changing a parameter in a smart contract, is publicly documented, debated, and decided upon by the DAO members.
 
 ## Specification
 
@@ -39,7 +39,7 @@ There are four types of DVIPs:
 The Darvishvand.Ventures governance lifecycle is designed to be rigorous and transparent, moving from idea to execution.
 
 **Phase 0: Ideation**
-*   **Action**: An idea is informally discussed in the appropriate category on the [Darvishvand.Ventures Forum](https://forum.darvishvand.ventures).
+*   **Action**: An idea is informally discussed in the appropriate category on the [Darvishvand.Ventures Discussions Space](https://github.com/darvishvand/darvishvand.ventures/discussions).
 *   **Goal**: To gauge community interest, gather initial feedback, and find collaborators. This step prevents time being wasted on proposals that are unlikely to gain traction.
 
 **Phase 1: Drafting**
@@ -47,11 +47,11 @@ The Darvishvand.Ventures governance lifecycle is designed to be rigorous and tra
 *   **Goal**: To create a formal, high-quality document that clearly articulates the proposal and its rationale.
 
 **Phase 2: Review**
-*   **Action**: The author submits the DVIP as a pull request to the `Darvishvand-Ventures/DVIPs` GitHub repository. A DVIP Editor assigns a DVIP number and merges the draft. The author then posts a link to the draft on the forum for formal community review.
+*   **Action**: The author submits the DVIP as a pull request to the `/DVIPs` folder. A DVIP Editor assigns a DVIP number and merges the draft. The author then posts a link to the draft on the Discussions Space for formal community review.
 *   **Goal**: To gather detailed feedback from the community and refine the proposal. The DVIP may be updated several times during this phase.
 
 **Phase 3: Voting**
-*   **Action**: Once the author believes the proposal is mature and has sufficient community support, they will request a formal vote. A DVIP Editor will then move the proposal to the DAO's official voting platform (e.g., Snapshot).
+*   **Action**: Once the author believes the proposal is mature and has sufficient community support, they will request a formal vote. A DVIP Editor will then move the proposal to the DAO's official voting platform.
 *   **Goal**: To make a formal, binding decision on the proposal. The voting period and quorum requirements are defined by the Governance Layer of the DAO.
 
 **Phase 4: Execution**

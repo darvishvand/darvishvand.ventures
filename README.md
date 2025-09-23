@@ -37,10 +37,10 @@ To get started with Darvishvand.Ventures, follow these steps to set up your deve
 
 ## Proposals
 
-Proposals for changes and new ideas are managed through the Darvishvand.Ventures Improvement Proposal (DVIP) process. This process is designed to be transparent and community-driven. To submit a proposal, follow the steps below.
+Proposals for changes and new ideas are managed through the Darvishvand.Ventures Improvement Proposal (DVIP) process. To submit a proposal, follow the steps below.
 
 1.  **Fork this repository**: If you haven't already, fork the Darvishvand.Ventures repository to your GitHub account.
-2.  **Create a DVIP File**: Create a new Markdown file in the `proposals/` directory (you may need to create this directory) named `DVIP-[#].md`, where `[#]` is the next available sequential number. Draft your proposal within this file, following the DVIP template (if available).
+2.  **Create a DVIP File**: Create a new Markdown file in the `DVIPs/` directory named `DVIP-[#].md`, where `[#]` is the next available sequential number. Draft your proposal within this file, following the DVIP_template.md.
 3.  **Submit a Pull Request**: Create a pull request from your forked repository to the main Darvishvand.Ventures repository. Ensure your pull request clearly describes your proposal and references the DVIP file.
 
 

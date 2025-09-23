@@ -31,3 +31,7 @@ This document records all significant actions taken in the establishment and ope
 *   **ACTION:** Updated `CODE_OF_CONDUCT.md` with the designated contact email for reporting incidents.
 *   **ACTION:** Updated `gemini.md` to include a rule for automatically pushing to GitHub after each commit.
 *   **ACTION:** Created `personal.md` for personal notes and added it to `.gitignore`.
+
+### September 23, 2025
+
+*   **ACTION:** Updated `README.md` with detailed getting started instructions and refined proposal submission steps. Staged, committed, and pushed changes.
